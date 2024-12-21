@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arunkumar-A-git/Arunkumar-A-git/output/snake.svg" alt="Snake animation" />
+
 
 ###
